@@ -1,0 +1,5 @@
+﻿  ImgCoder.cpp
+E:\VS projects\enigma1.0\enigma1.0\ImgCoder.cpp(9,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\VS projects\enigma1.0\enigma1.0\ImgCoder.cpp(11,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\VS projects\enigma1.0\enigma1.0\ImgCoder.cpp(39,20): warning C4018: <: несоответствие типов со знаком и без знака
+  enigma1.0.vcxproj -> E:\VS projects\enigma1.0\Debug\enigma1.0.exe
